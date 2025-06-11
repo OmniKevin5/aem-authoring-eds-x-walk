@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: "https://author-p34631-e1321407.adobeaemcloud.com/ui#/aem/aem/start.html?appId=aemshell"
+    url: "https://author-p34631-e1321407.adobeaemcloud.com"
     type: "markup"
     suffix: ".html"
