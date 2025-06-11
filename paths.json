@@ -1,10 +1,10 @@
 {
   "mappings": [
-    "/content/xWalkAEMAuthoring/:/",
-    "/content/xWalkAEMAuthoring/configuration:/.helix/config.json",
-    "/content/xWalkAEMAuthoring/metadata:/metadata.json"
+    "/content/x-walk-aem-authoring/:/",
+    "/content/x-walk-aem-authoring/configuration:/.helix/config.json",
+    "/content/x-walk-aem-authoring/metadata:/metadata.json"
   ],
   "includes": [
-    "/content/xWalkAEMAuthoring/"
+    "/content/x-walk-aem-authoring/"
   ]
 }
