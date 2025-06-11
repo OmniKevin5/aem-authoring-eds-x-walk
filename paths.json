@@ -1,10 +1,10 @@
 {
   "mappings": [
-    "/content/aem-boilerplate/:/",
-    "/content/aem-boilerplate/configuration:/.helix/config.json",
-    "/content/aem-boilerplate/metadata:/metadata.json"
+    "/content/xWalkAEMAuthoring/:/",
+    "/content/xWalkAEMAuthoring/configuration:/.helix/config.json",
+    "/content/xWalkAEMAuthoring/metadata:/metadata.json"
   ],
   "includes": [
-    "/content/aem-boilerplate/"
+    "/content/xWalkAEMAuthoring/"
   ]
 }
