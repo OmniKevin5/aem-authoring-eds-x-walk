@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: "https://author-p34631-e1321407.adobeaemcloud.com/bin/franklin.delivery/omnikevin5/aem-authoring-x-walk/main"
+    url: "https://author-p34631-e1321407.adobeaemcloud.com/bin/franklin.delivery/omnikevin5/aem-authoring-eds-x-walk/main"
     type: "markup"
     suffix: ".html"
